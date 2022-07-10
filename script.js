@@ -337,7 +337,7 @@ function draw() {
 		}
 	}
 
-	// Swap uwu
+	// Swappy
 	stroke('#222222')
 	strokeWeight(2)
 	noFill()
@@ -698,7 +698,7 @@ function draw() {
 			}
 		}
 	} catch (error) {
-		// Lose condition LMFAOOO SO JANKY
+		// You lose
 		console.warn(error)
 		gameStarted = false
 
